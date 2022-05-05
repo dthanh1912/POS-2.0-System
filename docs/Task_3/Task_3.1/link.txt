@@ -1,0 +1,3 @@
+architect_intro: https://hackmd.io/@pzPdS5TbSTqOR0nPsZHGVg/r1LNeiFHY
+mvc_intelligent_diagram: https://drive.google.com/file/d/1BC5g4ubjBDoyijmxoPFv-IuaOKK5DEoa/view?usp=sharing
+mvc_description: https://docs.google.com/document/d/1UfuL9UkT9IJn-YlHDm4-3VP13HQNV3KJfGgpmHCy7gw/edit?usp=sharing

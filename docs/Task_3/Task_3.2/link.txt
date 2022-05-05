@@ -1,0 +1,4 @@
+implementation_diagram:
+https://drive.google.com/file/d/1RikNMm0KxmqdCUdHRWNgHhbQozUdFMu_/view?usp=sharing
+
+implementation_description: https://hackmd.io/@pzPdS5TbSTqOR0nPsZHGVg/SyxILCGSY
